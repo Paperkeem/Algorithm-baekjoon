@@ -1,5 +1,3 @@
-
-
 def solution(n, computers):
     #[[1, 1, 0], 
     # [1, 1, 0], 
